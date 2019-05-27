@@ -15,7 +15,7 @@
 print("I will now count my chickens:")
 
 # Calculate the number of Hens
-print("Hens", 25 + 30 / 6)
+print("Hens", float(25 + 30 / 6))
 
 # Calculate the number of Roosters 
 print("Roosters", 100 - 25 * 3 % 4)
