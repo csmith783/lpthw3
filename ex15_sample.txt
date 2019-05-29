@@ -1,0 +1,3 @@
+This is a sample file. 
+This should be used on exercise 15.
+This exercise is all about reading files into your program. 
