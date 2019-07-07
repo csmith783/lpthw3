@@ -19,5 +19,5 @@
 # the best way to debug a program is to use print statements to print values of variables at certain points 
 # make sure parts of your program work as you work on them. 
 # do not write an entire script before running it. 
-# Always run your script yas ou write it. 
+# Always run your script as you write it. 
 
