@@ -53,9 +53,9 @@ for state, abbrev in list(states.items()):
 
 # safely get an abbreviation by state that might not be there 
 print('-' * 10)
-state = states.get('Texas')
+#state = states.get('Texas')
 
-if not state:
+if not states.get('Texas'):
     print("Sorry, no Texas")
 
 # get a city with a default value 
